@@ -1,0 +1,6 @@
+requests
+time
+sys
+os
+os.path
+colorama
